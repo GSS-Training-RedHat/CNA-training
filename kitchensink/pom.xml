@@ -24,7 +24,8 @@
         <groupId>org.jboss.eap.quickstarts</groupId>
         <artifactId>quickstart-parent</artifactId>
         <version>7.1.0.GA</version>
-        <relativePath>../pom.xml</relativePath>
+	<!--  <relativePath>../pom.xml</relativePath> -->
+	<url>https://maven.repository.redhat.com/ga/</url>
     </parent>
 
     <artifactId>kitchensink</artifactId>
